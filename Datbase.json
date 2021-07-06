@@ -1,5 +1,6 @@
 [
 	{
+		"Id": "3215486",
 		"Name": "Space Marines",
 		"Graphic": "boysinblue.jpg",
 		"Cost": "35.00",
@@ -10,6 +11,7 @@
 		"Desc": "Plastic sprue kit of multi-part models. Each box has the capacity to make a squad of 10 Space Marines with a variety of weapon options. Praise be the Emperor!"
 	},
 	{
+		"Id": "2134352",
 		"Name": "Eldar Guardians",
 		"Graphic": "spaceelves.png",
 		"Cost": "25.00",
@@ -20,6 +22,7 @@
 		"Desc": "Each box contains enough plastic parts to make 10 Guardians, defenders of the Craftworlds. Defeat your enemies with a combination of speed, precision, and advanced weaponry."
 	},
 	{
+		"Id": "348612",
 		"Name": "Necron Warriors",
 		"Graphic": "spookyrobots.jpg",
 		"Cost": "20.00",
@@ -30,6 +33,7 @@
 		"Desc": "Desintigrate the enemies of the Necrontyr with this box of 10 Warriors."
 	},
 	{
+		"Id": "3846312",
 		"Name": "Ork Boys",
 		"Graphic": "notthehulk.png",
 		"Cost": "15.00",
@@ -40,6 +44,7 @@
 		"Desc": "Scream in angry fury as your army charges your foe! Meet in thrilling combat and overwhelm them. Box contains 15 models."
 	},
 	{
+		"Id": "78645154",
 		"Name": "Tyranid Hiveguard",
 		"Graphic": "bugz.jpg",
 		"Cost": "10.00",
@@ -50,6 +55,7 @@
 		"Desc": "Defenders of the Hivemind. Assimilate your enemies with biological warfare. Box contains 3 models."
 	},
 	{
+		"Id": "31351D",
 		"Name": "Warcaster of Cygnar",
 		"Graphic": "lightningstorm.jpg",
 		"Cost": "10.00",
@@ -60,6 +66,7 @@
 		"Desc": "Imbue your warjacks with lightning to make them work even better!"
 	},
 	{
+		"Id": "315434S",
 		"Name": "Warlock of Everblight",
 		"Graphic": "spooky.jpg",
 		"Cost": "10.00",
@@ -70,6 +77,7 @@
 		"Desc": "Behold the power of Everblight, dragon of death. Defeat your enemies and use their essence to fuel your forces!"
 	},
 	{
+		"Id": "311546W",
 		"Name": "Devestator",
 		"Graphic": "steamtank.jpg",
 		"Cost": "15.00",
@@ -80,6 +88,7 @@
 		"Desc": "With the strength of the motherland and steam at your back, plow through your enemies with this beast of metal!"
 	},
 	{
+		"Id": "316464T",
 		"Name": "Bounder",
 		"Graphic": "kitty.jpg",
 		"Cost": "5.00",
@@ -90,6 +99,7 @@
 		"Desc": "Warbeast of the Druids. Quick on its feet and deadly up close. This kitty makes a fine addition to any force that can handle its attitude."
 	},
 	{
+		"Id": "3135464T",
 		"Name": "Exemplar Battle Priests",
 		"Graphic": "warriorpriests.jpg",
 		"Cost": "14.00",
@@ -100,6 +110,7 @@
 		"Desc": "Upholders of the law, and defenders of the peace. These militant priests are decked out in weapons to enact righteous justice."
 	},
 	{
+		"Id": "31645FED",
 		"Name": "Knights Templar",
 		"Graphic": "jediwitharmour.jpg",
 		"Cost": "10.00",
@@ -110,6 +121,7 @@
 		"Desc": "Melee specialists the hail from the Earth as part of the Defence Force. With the most advanced armour and weapons, they are a force to be feared."
 	},
 	{
+		"Id": "3216465TGH",
 		"Name": "Dr. Faustus",
 		"Graphic": "madscientist.jpg",
 		"Cost": "5.00",
@@ -120,6 +132,7 @@
 		"Desc": "Of all the doctors on the Nomadic fleet, Faustus is the scariest. Believes the cyborgs are the future"
 	},
 	{
+		"Id": "2313464EFS",
 		"Name": "Chameleon",
 		"Graphic": "stealthbot.jpg",
 		"Cost": "20.00",
@@ -130,6 +143,7 @@
 		"Desc": "The Aleph mechanized warsuit that is capable of stealth. A technological mystery that others want to get their hands on."
 	},
 	{
+		"Id": "318643231EDC",
 		"Name": "Wulfenver",
 		"Graphic": "wolfies.jpg",
 		"Cost": "14.00",
@@ -140,6 +154,7 @@
 		"Desc": "The bioengineer soldiers with the ferocity and strength of wolves mixed with the tenacity and adaptability of humans."
 	},
 	{
+		"Id": "31546312WED",
 		"Name": "The Grays",
 		"Graphic": "aliens.jpg",
 		"Cost": "14.00",
