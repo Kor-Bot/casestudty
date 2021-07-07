@@ -13,7 +13,7 @@
 	{
 		"Id": "2134352",
 		"Name": "Eldar Guardians",
-		"Graphic": "spaceelves.png",
+		"Graphic": "spaceelves.jpg",
 		"Cost": "25.00",
 		"MSRP": "49.99",
 		"OnHand": "3",
@@ -35,7 +35,7 @@
 	{
 		"Id": "3846312",
 		"Name": "Ork Boys",
-		"Graphic": "notthehulk.png",
+		"Graphic": "notthehulk.jpg",
 		"Cost": "15.00",
 		"MSRP": "35.99",
 		"OnHand": "4",
