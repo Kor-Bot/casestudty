@@ -4,9 +4,9 @@
 		"Name": "Space Marines",
 		"Graphic": "boysinblue.jpg",
 		"Cost": "35.00",
-		"MSRP": "59.99",
-		"OnHand": "5",
-		"BackOrder": "2",
+		"MSRP": "599.99",
+		"OnHand": "1",
+		"BackOrder": "0",
 		"Brand": "Games Workshop",
 		"Desc": "Plastic sprue kit of multi-part models. Each box has the capacity to make a squad of 10 Space Marines with a variety of weapon options. Praise be the Emperor!"
 	},
@@ -15,8 +15,8 @@
 		"Name": "Eldar Guardians",
 		"Graphic": "spaceelves.jpg",
 		"Cost": "25.00",
-		"MSRP": "49.99",
-		"OnHand": "3",
+		"MSRP": "509.99",
+		"OnHand": "1",
 		"BackOrder": "0",
 		"Brand": "Games Workshop",
 		"Desc": "Each box contains enough plastic parts to make 10 Guardians, defenders of the Craftworlds. Defeat your enemies with a combination of speed, precision, and advanced weaponry."
